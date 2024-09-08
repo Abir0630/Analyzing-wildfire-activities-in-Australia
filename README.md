@@ -4,7 +4,7 @@ This repository contains code and analysis for a project completed as part of an
 
 ## Project Overview
 
-In this project, I analyzed fire area data to uncover trends and patterns in fire occurrences between 2010 and 2013. The analysis was conducted using Python, and various data visualization techniques were employed to present the findings.
+In this project, I analyzed fire area data to uncover trends and patterns in fire occurrences. The analysis was conducted using Python, and various data visualization techniques were employed to present the findings.
 
 ## Technologies Used
 
