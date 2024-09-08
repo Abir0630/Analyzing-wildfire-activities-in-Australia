@@ -1,5 +1,3 @@
-# Analyzing-wildfire-activities-in-Australia
-
 # IBM Practice Project: Fire Area Analysis
 
 This repository contains code and analysis for a project completed as part of an IBM practice lab. The project focuses on analyzing estimated fire areas over time and identifying patterns across different years and months.
